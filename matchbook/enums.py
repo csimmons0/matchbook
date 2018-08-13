@@ -187,6 +187,7 @@ class MarketNames:
     GameLine1H = 'gameline 1H'
     OverUnder1H = 'over/under 1H'
     Winner = 'Winner'
+    Moneyline = "Moneyline"
     ML = 'Money Line'
     ml = 'moneyline'
     gl = 'goal line'
