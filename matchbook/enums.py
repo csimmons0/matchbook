@@ -187,7 +187,6 @@ class MarketNames:
     GameLine1H = 'gameline 1H'
     OverUnder1H = 'over/under 1H'
     Winner = 'Winner'
-    Moneyline = "Moneyline"
     ML = 'Money Line'
     ml = 'moneyline'
     gl = 'goal line'
@@ -195,8 +194,13 @@ class MarketNames:
     TotalRounds = 'Total Rounds'
     Totals = 'totals'
     ThreeWay = 'Three Way'
-    Total = 'Total'
     RaceWinner = 'Race Winner'
+
+    # Validated:
+    Moneyline = 'Moneyline'
+    Handicap = 'Handicap'
+    MatchOdds = 'Match Odds'
+    Total = 'Total'
     All = None
     Default = All
 
